@@ -17,3 +17,5 @@ O que faz com cada textura:
     mudar o formato crasha no loading). Cada mip recebe ruido proprio, sem virar cinza
   - filtro "nearest" para os pontos ficarem nitidos
 """
+
+Pra desinstalar basta apagar a pasta noise_mode de dentro de modloader.
