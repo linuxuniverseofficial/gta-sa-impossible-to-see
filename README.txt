@@ -19,3 +19,6 @@ O que faz com cada textura:
 """
 
 Pra desinstalar basta apagar a pasta noise_mode de dentro de modloader.
+
+EDIT:
+Adicionado o GTA_SOLID.py que deixa o jogo com uma cor lisa em tom bege.
